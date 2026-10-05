@@ -848,3 +848,60 @@ TESTIMONIALS
 .fa-arrow-left-long {
   color: #6415ff;
 }
+
+/*
+  
+START
+
+*/
+
+
+
+.start {
+  padding: 0 32px;
+}
+
+.start__container {
+  padding: 96px;
+  background-color: rgb(100, 21, 255);
+  width: 100%;
+  display: flex;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+#start .row {
+  position: relative;
+
+}
+
+.start__title .start__buttons {
+  width: 50%;
+}
+
+.start__title {
+  color: #f7fafc;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.start__buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+.start__button {
+  padding: 20px 40px;
+  border-radius: 500px;
+  font-size: 16px;
+}
+
+.start__row {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
